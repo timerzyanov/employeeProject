@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a92d114-db51-406e-aec5-9dfacd129c54" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X4WXGVqJPjcWTPIlFA1ytHQebv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="service" />
+      <recent name="dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ProjectsForStudy\JdbcTutorial" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Domain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Domain" />
+      <module name="JdbcTutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Domain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Dinar.Timerzyanov\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a92d114-db51-406e-aec5-9dfacd129c54" name="Default Changelist" comment="" />
+      <created>1580305884822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580305884822</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="950" y="276" key="#com.intellij.ide.util.MemberChooser" timestamp="1580308693225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="950" y="276" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580308693225" />
+    <state width="1340" height="396" key="GridCell.Tab.0.bottom" timestamp="1580393632873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="396" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580393632873" />
+    <state width="1340" height="396" key="GridCell.Tab.0.center" timestamp="1580393632873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="396" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580393632873" />
+    <state width="1340" height="396" key="GridCell.Tab.0.left" timestamp="1580393632873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="396" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580393632873" />
+    <state width="1340" height="396" key="GridCell.Tab.0.right" timestamp="1580393632873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="396" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580393632873" />
+    <state x="692" y="129" key="SettingsEditor" timestamp="1580388096170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="692" y="129" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580388096170" />
+  </component>
+</project>
